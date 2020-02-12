@@ -1,0 +1,155 @@
+body {
+  background: rgba(64, 190, 168, 0.67);
+  font-family: 'Maiden Orange', cursive;
+}
+
+header{
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  left: 0px;
+  top: 0px;
+}
+
+#img-header{
+  position: absolute;
+  width: 1232px;
+  height: 819px;
+  left: 102px;
+  top: -193px;
+  background-image: url(/Users/jesicatrejo/Downloads);
+}
+
+/*ACOMPAÑADA*/
+h1{
+  position: absolute;
+  width: 1113px;
+  height: 94px;
+  left: -58px;
+  top: 512px;
+  font-size: 140px;
+  line-height: 140px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+/*párrafo info*/
+article{
+  position: absolute;
+  width: 854px;
+  height: 133px;
+  left: 95px;
+  top: 682px;
+  font-size: 43px;
+  line-height: 43px;
+  text-align: center;
+  color: #000000
+}
+
+/*botón rutas*/
+button.rutas{
+  position: absolute;
+  width: 299px;
+  height: 89px;
+  left: 1035px;
+  top: 835px;
+  background: #AA58AC;
+  border-radius: 10px;
+  font-family: Maiden Orange;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 72px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+/*Desktop2*/
+/*opciones de rutas*/
+h2{
+  position: absolute;
+  width: 299px;
+  height: 89px;
+  left: 39px;
+  top: 103px;
+  font-size: 72px;
+  line-height: 72px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+button.ruta1{
+  position: absolute;
+  width: 551px;
+  height: 89px;
+  left: 338px;
+  top: 103px;
+  background: #0C6454;
+  border-radius: 10px;
+  font-family: Maiden Orange;
+  font-size: 48px;
+  line-height: 48px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+button.ruta2{
+  position: absolute;
+  width: 551px;
+  height: 89px;
+  left: 378px;
+  top: 219px;
+  background: #0C6454;
+  border-radius: 10px;
+  font-family: Maiden Orange;
+  font-size: 48px;
+  line-height: 48px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+button.ruta3{
+  position: absolute;
+  width: 551px;
+  height: 89px;
+  left: 409px;
+  top: 329px;
+  background: #0C6454;
+  border-radius: 10px;
+  font-family: Maiden Orange;
+  font-size: 48px;
+  line-height: 48px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+/*tu punto de encuentro es*/
+h3{
+  position: absolute;
+  width: 685px;
+  height: 89px;
+  left: 358px;
+  top: 529px;
+  font-family: Maiden Orange;
+  font-size: 64px;
+  line-height: 64px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+{
+  position: absolute;
+  width: 1028px;
+  height: 99px;
+  left: 205px;
+  top: 607px;
+  background: #0C6454;
+  border-radius: 10px;
+}
