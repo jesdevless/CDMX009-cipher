@@ -144,7 +144,7 @@ h3{
   color: #FFFFFF;
 }
 
-{
+input.tu-punto-encuentro{
   position: absolute;
   width: 1028px;
   height: 99px;
@@ -152,4 +152,36 @@ h3{
   top: 607px;
   background: #0C6454;
   border-radius: 10px;
+}
+
+button.crear-punto{
+  position: absolute;
+  width: 686px;
+  height: 87px;
+  left: 357px;
+  top: 833px;
+  background: #AA58AC;
+  border-radius: 10px;
+  font-family: Maiden Orange;
+  font-size: 64px;
+  line-height: 64px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+button.home{
+  position: absolute;
+  width: 134px;
+  height: 134px;
+  left: 653px;
+  top: 701px;
+  border-radius: 80px;
+  background: #AA58AC;
+  font-family: Maiden Orange;
+  font-size: 36px;
+  line-height: 36px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
 }
