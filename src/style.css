@@ -65,14 +65,13 @@ button.rutas{
   color: #FFFFFF;
 }
 
-/*Desktop2*/
 /*opciones de rutas*/
 h2{
   position: absolute;
   width: 299px;
   height: 89px;
   left: 39px;
-  top: 103px;
+  top: 1127px;
   font-size: 72px;
   line-height: 72px;
   display: flex;
@@ -86,7 +85,7 @@ button.ruta1{
   width: 551px;
   height: 89px;
   left: 338px;
-  top: 103px;
+  top: 1127px;
   background: #0C6454;
   border-radius: 10px;
   font-family: Maiden Orange;
@@ -102,7 +101,7 @@ button.ruta2{
   width: 551px;
   height: 89px;
   left: 378px;
-  top: 219px;
+  top: 1243px;
   background: #0C6454;
   border-radius: 10px;
   font-family: Maiden Orange;
@@ -118,7 +117,7 @@ button.ruta3{
   width: 551px;
   height: 89px;
   left: 409px;
-  top: 329px;
+  top: 1353px;
   background: #0C6454;
   border-radius: 10px;
   font-family: Maiden Orange;
@@ -130,26 +129,13 @@ button.ruta3{
 }
 
 /*tu punto de encuentro es*/
-h3{
-  position: absolute;
-  width: 685px;
-  height: 89px;
-  left: 358px;
-  top: 529px;
-  font-family: Maiden Orange;
-  font-size: 64px;
-  line-height: 64px;
-  align-items: center;
-  text-align: center;
-  color: #FFFFFF;
-}
 
-input.tu-punto-encuentro{
+label.tu-punto{
   position: absolute;
   width: 1028px;
   height: 99px;
   left: 205px;
-  top: 607px;
+  top: 1631px;
   background: #0C6454;
   border-radius: 10px;
 }
@@ -159,7 +145,7 @@ button.crear-punto{
   width: 686px;
   height: 87px;
   left: 357px;
-  top: 833px;
+  top: 1857px;
   background: #AA58AC;
   border-radius: 10px;
   font-family: Maiden Orange;
@@ -175,7 +161,7 @@ button.home{
   width: 134px;
   height: 134px;
   left: 653px;
-  top: 701px;
+  top: 2749px;
   border-radius: 80px;
   background: #AA58AC;
   font-family: Maiden Orange;
