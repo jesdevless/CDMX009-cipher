@@ -3,29 +3,19 @@ body {
   font-family: 'Maiden Orange', cursive;
 }
 
-header{
-  position: absolute;
-  width: 1440px;
-  height: 1024px;
-  left: 0px;
-  top: 0px;
-}
-
-#img-header{
+header.img-header{
   position: absolute;
   width: 1232px;
   height: 819px;
-  left: 102px;
-  top: -193px;
-  background-image: url(/Users/jesicatrejo/Downloads);
+  margin-left: 104px;
 }
 
 /*ACOMPAÑADA*/
 h1{
   position: absolute;
-  width: 1113px;
-  height: 94px;
-  left: -58px;
+  width: 835px;
+  height: 100px;
+  left: 95px;
   top: 512px;
   font-size: 140px;
   line-height: 140px;
@@ -130,27 +120,62 @@ button.ruta3{
 
 /*tu punto de encuentro es*/
 
-label.tu-punto{
+section.container-encuentros{
   position: absolute;
-  width: 1028px;
-  height: 99px;
-  left: 205px;
-  top: 1631px;
-  background: #0C6454;
+  width: 686px;
+  height: 87px;
+  left: 377px;
+  top: 1630px;
+  background: #AA58AC;
   border-radius: 10px;
+  font-family: Maiden Orange;
+  font-size: 54px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
 }
 
 button.crear-punto{
   position: absolute;
   width: 686px;
   height: 87px;
-  left: 357px;
+  left: 377px;
   top: 1857px;
   background: #AA58AC;
   border-radius: 10px;
   font-family: Maiden Orange;
   font-size: 64px;
   line-height: 64px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+section.container-ingresar{
+  position: absolute;
+  width: 686px;
+  height: 87px;
+  left: 377px;
+  top: 2308px;
+  background: #0C6454;;
+  border-radius: 10px;
+  font-family: Maiden Orange;
+  font-size: 54px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+section.container-compartir{
+  position: absolute;
+  width: 686px;
+  height: 87px;
+  left: 377px;
+  top: 2572px;
+  background: #0C6454;;
+  border-radius: 10px;
+  font-family: Maiden Orange;
+  font-size: 54px;
   align-items: center;
   text-align: center;
   color: #FFFFFF;
