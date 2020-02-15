@@ -11,15 +11,13 @@
   </head>
 
   <body>
-    <!-- Desktop 1 -->
     <header>
     <!-- IMG Header-->
       <section class = "img-header"></section>
-      <img src="/Users/jesicatrejo/Downloads/rich-smith-R1obAiNAD5Y-unsplash.png" alt="acompañada" style="width:auto;height:auto;;">
+      <img src="/Users/jesicatrejo/Downloads/rich-smith-R1obAiNAD5Y-unsplash.png" alt="acompañada">
         <h1>ACOMPAÑADA</h1>
 
-
-    <!-- Contenido principal Desktop 1 -->
+    <!-- Descripción página -->
       <article>
         <p> Consulta nuestras rutas de acompañamiento para que viajes<br>
           con otras mujeres. Juntas nos sentimos cómodas y seguras<br>hasta llegar a nuestro destino. </p>
@@ -27,11 +25,10 @@
     </header>
 
 <main>
-    <!-- Botón rutas -->
-      <button class="rutas">Rutas</button>
 
     <!-- Sección rutas -->
-<section class="opciones">
+  <div class="box1"></div>
+<section class="container-rutas">
     <h2>Rutas</h2>
     <p><button class="ruta1">Oceanía - Insurgentes</button></p>
     <p><button class="ruta2">Buenavista - Centro</button></p>
@@ -39,35 +36,38 @@
 </section>
 
   <!-- Puntos de ecuentros -->
-<section class="container-encuentros">
-    <label for="tu-punto">Tu punto de encuentro es</label><br>
-    <input type="text" name="tu-punto-encuentro" id="tu-punto">
+<section class="container-encuentro">
+    <h3>Tu punto de encuentro es<h3>
+      <form>
+        <input type="text-p" name="tu-punto-encuentro" id="tu-punto">
+      </form>
 </section>
 
-    <!-- Botón crear punto de encuentro-->
-<section>
-  <button class="crear-punto">Crear punto de encuentro</button>
-</section>
+    <!-- Caja crear punto de encuentro-->
+  <div class="box2"></div>
+    <section class="container-crear">
+      <h4>Crear punto de encuentro</h4>
 
-    <!-- Desktop3 -->
     <!-- Ingresar la dirección -->
-<section class="container-ingresar">
-    <label for="punto-encuentro">Ingresa la dirección</label><br>
-    <input type="text" name="encuentro" id="ingresa-direccion">
+      <h5>Ingresa la dirección</h5>
+    <form>
+      <input type="text-d" name="encuentro" id="ingresa-direccion">
+    </form>
 </section>
 
     <!-- Compartir ubicación -->
 <section class="container-compartir">
-    <label for="compartir">Comparte este código</label><br>
-    <input type="text" name="comparte" id="comparte-codigo">
-</section>
-
-    <!-- Botón home -->
-<section class="home">
-  <button class="home">Home</button>
+  <h6>Comparte este código</h6>
+    <form>
+      <input type="text-c" name="comparte" id="comparte-codigo">
+    </form>
 </section>
 
 </main>
+
+<footer>
+  <p>2020 jesdevless-Laboratoria</p>
+</footer>
 
     <script src="index.js" type="module"></script>
   </body>
