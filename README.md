@@ -3,7 +3,7 @@ Red de consulta de rutas para acompañamiento durante trayectos en la CDMX,
 con la finalidad de viajar seguras hasta cualquier destino.
 
 
-![acompañada](Users/jesicatrejo/Documents/Laboratoria/Github/CDMX009-cipher/Acompañada.png)
+![acompañada](https://github.com/jesdevless/CDMX009-cipher/blob/master/Acompa%C3%B1ada.png)
 
 * Investigación UX:
   1. Los usuarios son las mujeres que se trasladan en transporte público en la CDMX.
@@ -16,7 +16,7 @@ con la finalidad de viajar seguras hasta cualquier destino.
      persona con intenciones de secuestro y/o robo. Aunque aún no logro establecer los 
      criterios para generar un acceso únicamente para mujeres.
  
-  3. ![acompañada](Users/jesicatrejo/Documents/Laboratoria/Github/CDMX009-cipher/sketch acompanada.jpg)
+  3. ![acompañada]()
   
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
 
