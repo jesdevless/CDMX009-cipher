@@ -5,30 +5,36 @@ const cipher = {
 
 export default cipher;
 
-//codificar el texto-string//
+//codificar el texto-string
 let solved = "";
 function encode (str, offset){
-  for (let i=0; i<str.lenght; i++){             //bucle para incrementar la longitud del texto y declaración de la variable//
-    let asciiNum = str[i].charCodeAt();         //variable letra código asciiNum//
-    if (asciiNum >=65 && >=90) {                //fórmula cifrado//
+  //bucle para incrementar la longitud del texto y declaración de la variable
+  for (let i=0; i<str.lenght; i++){
+    //variable letra código asciiNum
+    let asciiNum = str[i].charCodeAt();
+    //fórmula cifrado
+    if (asciiNum >=65 && >=90) {
       solved += string.fromCharCode(asciiNum);
     }
-    else {                                     //suma para incremento código asciiNum//
+    else {
+       //suma para incremento código asciiNum
       asciiNum = (asciiNum -65 + parseInt(offset))%26+65;
       solved +=string.fromCharCode(asciiNum)
     }
   }
-  return (solved);                              //retorna el objeto resuelto//
+  //retorna el objeto resuelto
+  return (solved);
 }
 
 
-//decodificar el texto-string//
+//decodificar el texto-string
 let solved = "";
   function decode (str, offset){
     for (let i=0; i < str.length; i++) {
       let asciiNum = str.[i].charCodeAt;
       if (asciiNum >=65 && >=90) {
-        asciiNum = (asciiNum +65 - parseInt(offset))%26+65;            //fórmula descifrado//
+        //fórmula descifrado
+        asciiNum = (asciiNum +65 - parseInt(offset))%26+65;
         solved += string.fromCharCode(asciiNum);
       }
     }
