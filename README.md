@@ -16,7 +16,7 @@ con la finalidad de viajar seguras hasta cualquier destino.
      persona con intenciones de secuestro y/o robo. Aunque aún no logro establecer los 
      criterios para generar un acceso únicamente para mujeres.
  
-  3. ![acompañada]()
+  3. ![acompañada sketch](https://github.com/jesdevless/CDMX009-cipher/blob/master/sketch%20acompanada.jpg)
   
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
 
