@@ -1,3 +1,29 @@
+# Acompañada
+Red de consulta de rutas para acompañamiento durante trayectos en la CDMX,
+con la finalidad de viajar seguras hasta cualquier destino.
+
+
+![acompañada](https://github.com/jesdevless/CDMX009-cipher/blob/master/Acompa%C3%B1ada.png)
+
+* Investigación UX:
+  1. Los usuarios son las mujeres que se trasladan en transporte público en la CDMX.
+     Proporcionar puntos de encuentro cifrados para que las mujeres se acompañen durante
+     sus trayectos en la ciudad, esto con la finalidad de sentirse seguras y evitar 
+     situaciones de riesgo; o en caso de existir una, se sientan cómodas y tranquilas
+     al estar rodeadas por más mujeres como ellas.
+
+  2. Se requieren puntos de encuentro cifrados para evitar ser intercepatadas por alguna
+     persona con intenciones de secuestro y/o robo. Aunque aún no logro establecer los 
+     criterios para generar un acceso únicamente para mujeres.
+ 
+  3. ![acompañada]()
+  
+  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
+
+
+
+
+
 # Cifrado César
 
 ## Índice
@@ -66,26 +92,26 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 
 ### UX
 
-- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
-- [ ] Crear prototipos para obtener feedback e iterar.
-- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [+] Diseñar la aplicación pensando y entendiendo al usuario.
+- [+] Crear prototipos para obtener feedback e iterar.
+- [+] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 
 ### HTML y CSS
 
-- [ ] Uso correcto de HTML semántico.
-- [ ] Uso de selectores de CSS.
-- [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
+- [+] Uso correcto de HTML semántico.
+- [+] Uso de selectores de CSS.
+- [+] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ### DOM
 
-- [ ] Uso de selectores del DOM.
-- [ ] Manejo de eventos del DOM.
+- [+] Uso de selectores del DOM.
+- [+] Manejo de eventos del DOM.
 - [ ] Manipulación dinámica del DOM.
 
 ### Javascript
 
-- [ ] Manipulación de strings.
-- [ ] Uso de condicionales (if-else | switch).
+- [+] Manipulación de strings.
+- [+] Uso de condicionales (if-else | switch).
 - [ ] Uso de bucles (for | do-while).    
 - [ ] Uso de funciones (parámetros | argumentos | valor de retorno).
 - [ ] Declaración correcta de variables (const & let).
@@ -94,11 +120,11 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 - [ ] Testeo de tus funciones.
 
 ### Git y GitHub
-- [ ] Comandos de git (add | commit | pull | status | push).
-- [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+- [+] Comandos de git (add | commit | pull | status | push).
+- [+] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 
 ### Buenas prácticas de desarrollo
-- [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [+] Uso de identificadores descriptivos (Nomenclatura | Semántica).
 - [ ] Uso de linter para seguir buenas prácticas (ESLINT).
 
 
